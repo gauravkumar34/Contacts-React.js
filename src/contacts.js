@@ -1,17 +1,20 @@
 const contacts = [
   {
+    id: 1,
     name: "Beyounce",
     img: "https://data.whicdn.com/images/222445623/original.jpg",
     tel: "+91-909909",
     email: "b@beyounce.com",
   },
   {
+    id: 2,
     name: "Gaurav Kumar",
     img: "https://gauravkumar34.github.io/portfolio/images/about-1.jpg",
     tel: "+91 7011267344",
     email: "urwid@gauav.com",
   },
   {
+    id: 3,
     name: "Jack Bauer",
     img:
       "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
@@ -19,6 +22,7 @@ const contacts = [
     email: "jack@nowhere.com",
   },
   {
+    id: 4,
     name: "Chuck Norris",
     img:
       "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
