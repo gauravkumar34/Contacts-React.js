@@ -18,7 +18,7 @@ function createCard(contact) {
 function App() {
   return (
     <div>
-      <h1 className="heading">My Contacts</h1>
+      <h1 className="heading">My Contacts: -</h1>
       <Avatar img={contacts[1].img} />
 
       {contacts.map(createCard)}
